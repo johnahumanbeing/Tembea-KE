@@ -38,6 +38,17 @@ This project is licensed under the [MIT License](LICENSE).
 - HyperText Markup Language (HTML)
 - APIs
 
+## Resources
+
+### Online Sources:
+- [GitHub Copilot](https://github.com/features/copilot)
+- [ChatGPT](https://chat.openai.com/)
+- [Perplexity.ai](https://www.perplexity.ai/)
+
+### Images:
+- [Pinterest](https://www.pinterest.com/)
+- [Pexels](https://www.pexels.com/)
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [gmail](mailto:mseewak@gmail.com).
