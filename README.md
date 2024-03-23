@@ -27,10 +27,6 @@ To run Tembea-KE locally, follow these steps:
 
 We welcome contributions from everyone! If you'd like to contribute to Tembea-KE, please follow the [contribution guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Technologies Used
 
 - JavaScript (JS)
