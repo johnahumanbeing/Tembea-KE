@@ -45,6 +45,9 @@ We welcome contributions from everyone! If you'd like to contribute to Tembea-KE
 - [Pinterest](https://www.pinterest.com/)
 - [Pexels](https://www.pexels.com/)
 
+## NOTE:
+The backend was stored in mySQL and some parts of the files have gone missing the site may not work as intended but in general most of the parts function.
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [gmail](mailto:mseewak@gmail.com).
