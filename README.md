@@ -45,6 +45,13 @@ We welcome contributions from everyone! If you'd like to contribute to Tembea-KE
 - [Pinterest](https://www.pinterest.com/)
 - [Pexels](https://www.pexels.com/)
 
+## Acknowledgements
+
+I would like to express my gratitude to the following individuals for their support and contributions to this project:
+
+- [Hajar](https://github.com/ELABDELLAOUI-HAJAR)
+- [Youseff](https://github.com/sabrallah)
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [gmail](mailto:mseewak@gmail.com).
