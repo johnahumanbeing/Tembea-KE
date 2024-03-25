@@ -52,6 +52,9 @@ I would like to express my gratitude to the following individuals for their supp
 - [Hajar](https://github.com/ELABDELLAOUI-HAJAR)
 - [Youseff](https://github.com/sabrallah)
 
+## NOTE:
+The backend was stored in mySQL and some parts of the files have gone missing the site may not work as intended but in general most of the parts function.
+
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to me at [gmail](mailto:mseewak@gmail.com).
