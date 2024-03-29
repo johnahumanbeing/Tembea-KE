@@ -53,7 +53,7 @@ I would like to express my gratitude to the following individuals for their supp
 - [Youseff](https://github.com/sabrallah)
 
 ## NOTE:
-The backend was stored in mySQL and some parts of the files have gone missing the site may not work as intended but in general most of the parts function.
+The backend was stored in mySQL and some parts of the files have gone missing the site may not work as intended but in general most of the parts function.If you find this project interesting you can give it a star!.
 
 ## Contact
 
